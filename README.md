@@ -1,6 +1,6 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Gilang Ramadhan**.<br>
+Perkenalkan nama saya **M. Ridwan**.<br>
 
 Saya seorang **Junior Backend Developer** <br>
 
